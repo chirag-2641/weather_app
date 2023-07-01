@@ -1,2 +1,2 @@
 # weather_app
-i used weather to retrive data
+i used weather api to retrive data
